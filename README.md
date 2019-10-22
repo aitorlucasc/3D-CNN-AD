@@ -1,5 +1,7 @@
 # 3D-CNN-AD
+
 *** Data and csv files are not provided ***
+
 Repository that contains most of the files of my bachelor thesis called "3D Convolutional Neural Networks for Alzheimer's Disease"
     - Preprocessing_scripts: this folder contains the main preprocessing code.
         - preprocessingMRI.py: normalizes the MRI image values and stores the new ones.
@@ -11,6 +13,8 @@ Repository that contains most of the files of my bachelor thesis called "3D Conv
     - Main_scripts: the main script is mainG.py, the others have small changes
 
 Model architecture extrated from: "Analyzing Alzheimer’s Disease Progression from Sequential Magnetic Resonance Imaging Scans Using Deep 3D Convolutional Neural Networks".
+
 Dataset comes from http://adni.loni.usc.edu/
+
 The thesis can be downloaded in: http://hdl.handle.net/10230/42395
 
