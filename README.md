@@ -3,6 +3,7 @@
 *** Data and csv files are not provided ***
 
 Repository that contains most of the files of my bachelor thesis called "3D Convolutional Neural Networks for Alzheimer's Disease"
+
     - Preprocessing_scripts: this folder contains the main preprocessing code.
         - preprocessingMRI.py: normalizes the MRI image values and stores the new ones.
         - resizeMRI.py: changes the default image size to another one.
