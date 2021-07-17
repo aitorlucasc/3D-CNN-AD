@@ -1,4 +1,4 @@
-# 3D-CNN-AD
+# 3D Convolutional Neural Networks for Alzheimer's Disease
 
 *** Data and csv files are not provided ***
 
